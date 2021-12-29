@@ -1,0 +1,11 @@
+marker
+color 233
+circle 40 20 18 0
+rect 30 12 7 3 1
+rect 44 12 7 3 1
+rect 40 25 2 2 1
+color 11
+fill 40 20
+color 39 
+rect 30 15 7 15 1
+rect 44 15 7 15 1

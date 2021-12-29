@@ -1,0 +1,35 @@
+marker
+color 233
+circle 45 20 18 0
+circle 45 23 15 0
+eraser
+circle 40 15 5 1
+circle 40 15 5 1
+circle 50 15 5 1
+marker
+circle 40 13 6 0
+circle 50 13 6 0
+circle 42 13 2 0
+circle 48 13 2 0
+circle 45 20 3 0
+marker
+color 231
+fill 51 13
+fill 50 20
+fill 38 13
+color 75
+fill 51 7
+color 9
+fill 45 20 
+layer add
+marker
+color 233
+circle 40 20 18 0
+rect 30 12 7 3 1
+rect 44 12 7 3 1
+rect 40 25 2 2 1
+color 11
+fill 40 20 
+color 39
+rect 30 15 7 15 1
+rect 44 15 7 15 1

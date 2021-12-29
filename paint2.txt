@@ -1,0 +1,9 @@
+circle 50 20 18
+circle 50 23 15 
+circle 45 13 6 
+circle 55 13 6 
+rect 5 5 10 6
+circle 47 13 2 
+circle 53 13 2 
+circle 50 20 3 
+line 1 1 5 5 
